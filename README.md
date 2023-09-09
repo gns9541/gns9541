@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=150&text=Hello%20I'm%20DoongHoon&fontSize=20&fontAlign=85&fontAlignY=40&color=gradient)
 <div align=center>
  <h4>🌱 I’m currently learning at SSAFY<h4/>
-
-  ### Tech Stack
+  <hr>
+  <h4>Tech Stack</h4> 
+  
   <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white">  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white">
@@ -19,15 +20,16 @@
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white">
 
+  <hr>
+  <h4>Connect<h4/>   
   
-  ### Connect
   <a href="https://github.com/gns9541" target="_blank"><img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/zogakpiza/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white"></a>
   <a href="mailto:gns9541gns@naver.com"><img src="https://img.shields.io/badge/gns9541gns@naver.com-03C75A?logo=naver&logoColor=white&link=mailto:gns9541gns@naver.com"/></a>
   <a href="mailtohabeonplz9541@gmail.com"><img src="https://img.shields.io/badge/gns9541gns@naver.com-EA4335?logo=gmail&logoColor=white&link=mailto:gns9541gns@naver.com"/></a>
-
-
-  ### Stats
+  
+ <hr>
+  <h4>Stats<h4/>
   
   [![gns9541](http://mazassumnida.wtf/api/mini/generate_badge?boj=gns9541)](https://solved.ac/gns9541)
 </div>
