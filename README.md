@@ -26,7 +26,7 @@
   <a href="https://github.com/gns9541" target="_blank"><img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white"></a>
   <a href="https://www.instagram.com/zogakpiza/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white"></a>
   <a href="mailto:gns9541gns@naver.com"><img src="https://img.shields.io/badge/gns9541gns@naver.com-03C75A?logo=naver&logoColor=white&link=mailto:gns9541gns@naver.com"/></a>
-  <a href="mailtohabeonplz9541@gmail.com"><img src="https://img.shields.io/badge/gns9541gns@naver.com-EA4335?logo=gmail&logoColor=white&link=mailto:gns9541gns@naver.com"/></a>
+  <a href="mailto:habeonplz9541@gmail.com"><img src="https://img.shields.io/badge/habeonplz9541@gmail.com-EA4335?logo=gmail&logoColor=white&link=mailto:habeonplz9541@gmail.com"/></a>
   
  <hr>
   <h4>🔥 Stats<h4/>
