@@ -29,7 +29,7 @@
 
   ## Stats
   
-  [![gns9541](http://mazassumnida.wtf/api/v2/generate_badge?boj=gns9541)](https://solved.ac/gns9541)
+  [![gns9541](http://mazassumnida.wtf/api/mini/generate_badge?boj=gns9541)](https://solved.ac/gns9541)
 </div>
 <!--
 **gns9541/gns9541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
