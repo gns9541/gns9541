@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=150&text=Hello%20I'm%20DoongHoon&fontSize=20&fontAlign=85&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=150&text=Hello,%20I'm%20DoongHoon&fontSize=20&fontAlign=85&fontAlignY=40&color=gradient)
 <div align=center>
  <h4>🌱 I’m currently learning at SSAFY<h4/>
   <hr>
