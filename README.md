@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=150&text=프론트엔드%20개발자%20DoongHoon&fontSize=20&fontAlign=80&fontAlignY=40&color=gradient)
 <div align=center>
  <h4>🌱 I’m currently learning at SSAFY<h4/>
-  <hr>
-  <h4>✨ Tech Stack</h4> 
-
+ <h4>✨ Tech Stack</h4>
+  
   <img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white">  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white">
@@ -20,17 +19,13 @@
   <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white">
 
-  <hr>
   <h4>📫 Connect<h4/>   
-  
   <a href="https://www.instagram.com/zogakpiza/" target="_blank"><img src="https://img.shields.io/badge/zogakpiza-E4405F?logo=instagram&logoColor=white"></a>
   <a href="mailto:gns9541gns@naver.com"><img src="https://img.shields.io/badge/gns9541gns@naver.com-03C75A?logo=naver&logoColor=white&link=mailto:gns9541gns@naver.com"/></a>
   <a href="mailto:habeonplz9541@gmail.com"><img src="https://img.shields.io/badge/habeonplz9541@gmail.com-EA4335?logo=gmail&logoColor=white&link=mailto:habeonplz9541@gmail.com"/></a>
-  
- <hr>
+
   <h4>🔥 Portfolio<h4/>
   <a href="https://witty-uncle-4b4.notion.site/_-468be7744d5b41c79307a964ea33ef91?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a>
-  
 </div>
 <!--
 **gns9541/gns9541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
