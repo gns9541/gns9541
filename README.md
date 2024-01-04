@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">  
+  <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black">  
  </div>
  <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
