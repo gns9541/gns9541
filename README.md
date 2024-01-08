@@ -1,4 +1,4 @@
-🌱 I’m currently learning at SSAFY
+🌱 SSAFY 9th
 <hr>
 <h4>✨ Tech Stack</h4>
 <div>
