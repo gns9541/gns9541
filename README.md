@@ -38,7 +38,11 @@
 </div>
 <h4>🔥 Portfolio<h4/>
 <div>
- <a href="https://witty-uncle-4b4.notion.site/_-468be7744d5b41c79307a964ea33ef91?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a> 
+ <a href="https://witty-uncle-4b4.notion.site/_-468be7744d5b41c79307a964ea33ef91?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portfolio-1bbfa0?logo=notion&logoColor=white"></a>
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gns9541)](https://solved.ac/gns9541/)
+
+ 
 </div>
 
 <!--
