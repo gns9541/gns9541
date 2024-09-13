@@ -3,6 +3,7 @@
   
   <p style="font-size: 12px; color: #333; margin-bottom: 15px;">
     <span style="display: block; margin-bottom: 3px;">🏢 Currently working at a private stock trading platform company</span>
+     <br>
     <span style="display: block;">🌱 Previously completed SSAFY 9th program</span>
   </p>
 
@@ -48,6 +49,8 @@
   <a href="https://solved.ac/gns9541">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gns9541" alt="Solved.ac Profile" height="90"/>
   </a>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgns9541&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>  </a>
 </div>
 
 <!-- 
@@ -62,10 +65,10 @@
   <a href="mailto:habeonplz9541@gmail.com">
     <img src="https://img.shields.io/badge/habeonplz9541@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="20"/>
   </a>
-
   <h4 style="color: #2F80ED; font-size: 16px; margin-bottom: 10px;">🔥 Portfolio</h4>
   <a href="https://witty-uncle-4b4.notion.site/_-468be7744d5b41c79307a964ea33ef91?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-000000?style=flat&logo=notion&logoColor=white" alt="Portfolio" height="20"/>
   </a>
 </div>
 -->
+
