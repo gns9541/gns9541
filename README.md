@@ -1,4 +1,4 @@
-<div style="font-family: Arial, sans-serif; font-size: 14px;">
+<div style="font-family: 'Helvetica', 'Arial', sans-serif; font-size: 14px;">
   <h3 style="color: #2F80ED; font-size: 18px; margin-bottom: 10px;">I'm a Backend/Infrastructure Developer 👋</h3>
   
   <p style="font-size: 12px; color: #333; margin-bottom: 15px;">
@@ -53,7 +53,6 @@
   <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgns9541&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>  </a>
 </div>
-
 <!-- 
 <div style="font-family: Arial, sans-serif; font-size: 14px;">
   <h4 style="color: #2F80ED; font-size: 16px; margin-bottom: 10px;">📫 Connect with me</h4>
