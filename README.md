@@ -30,6 +30,7 @@
     <strong style="display: block; margin-bottom: 4px; font-size: 13px;">Infra:</strong>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon&logoColor=white" alt="AWS" height="20"/>
     <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="Elastic Beanstalk" height="20"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
   </div>
 
   <div style="margin-bottom: 8px;">
