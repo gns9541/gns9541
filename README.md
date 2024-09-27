@@ -2,7 +2,7 @@
   <h3 style="color: #2F80ED; font-size: 18px; margin-bottom: 10px;">I'm a Backend/Infra structure Developer 👋</h3>
   
   <p style="font-size: 12px; color: #333; margin-bottom: 15px;">
-    <span style="display: block; margin-bottom: 3px;">🏢 Currently working at a private stock trading platform company</span>
+    <span style="display: block; margin-bottom: 3px;">🏢 Currently working at a stock trading platform company</span>
      <br>
     <span style="display: block;">🌱 Previously completed SSAFY 9th program</span>
   </p>
