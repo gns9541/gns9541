@@ -36,6 +36,8 @@
   <div style="margin-bottom: 8px;">
     <strong style="display: block; margin-bottom: 4px; font-size: 13px;">Database:</strong>
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"/>
+    <img src="https://img.shields.io/badge/firebase-DD2C00?style=flat&logo=firebase&logoColor=white" alt="Firebase" height="20"/>
+  </div>
   </div>
 
   <div style="margin-bottom: 8px;">
@@ -44,6 +46,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="20"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="20"/>
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket" height="20"/>
+    <img src="https://img.shields.io/badge/retool-3D3D3D?style=flat&logo=retool&logoColor=white" alt="Retool" height="20"/>
   </div>
 
   <h4 style="color: #2F80ED; font-size: 16px; margin-bottom: 10px;">📊 Stats</h4>
